@@ -9,4 +9,4 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 Video Captured by Screencastify
 
-[Contribution guidelines for this project]https://drive.google.com/file/d/15KBvV386ELikOO8LZkUz2CFdM88p5_Gr/view
+https://drive.google.com/file/d/15KBvV386ELikOO8LZkUz2CFdM88p5_Gr/view
