@@ -22,5 +22,18 @@ do-what-it-says
 ```
 
 
+## Example 
 
+
+```
+node liri.js spotify-this-song 'Hello'
+
+this is loaded
+--------------------------------------------------
+Artist: Adele
+Song: Hello
+Preview: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=ec31608aa90a4877b00ce8def03c2268
+Album: 25
+
+```
 
